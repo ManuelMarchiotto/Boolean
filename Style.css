@@ -1,0 +1,65 @@
+body{
+  background-image: url(IMG/background2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+.Box{
+  width: 1000px;
+  height: 800px;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 30px;
+  margin: auto;
+}
+
+.Titolo2{
+  text-align: center;
+  color: #75F94D;
+}
+
+.PulsantiScelte{
+  text-align: center;
+  background-color: #75F94D;
+  margin-left: 100px;
+  width: 800px;
+  height: 30px;
+  padding-top: 10px;
+}
+
+.scooter{
+  color: white;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.nome{
+  font-size: 24px;
+}
+
+.status{
+  background-color: orange;
+  color: orange;
+  width: 250px;
+  border-radius: 5px;
+}
+
+.status2{
+  background-color: #75F94D;
+  color: #75F94D;
+  width: 400px;
+  border-radius: 5px;
+}
+
+.status3{
+  background-color: red;
+  color: red;
+  width: 100px;
+  border-radius: 5px;
+}
